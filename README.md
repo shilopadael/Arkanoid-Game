@@ -18,14 +18,6 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 <img src="./level3.png" width="400" height="400">
 <img src="./level4.png" width="400" height="400">
 
-<h1>Dependencies</h1>
-
-<ul>
-  <li>Windows / Linux / macOS</li>
-  <li>Git</li>
-  <li>Keyboard that contains: Spacebar (for stoppage), "P" button, and all arrows.</li>
-  <li>Apache Ant</li>
-</ul>
 
 <h1> How To Run? </h1>
 <p>You can run this game in 3 options:</p>
