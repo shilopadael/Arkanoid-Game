@@ -13,10 +13,10 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
   <li>Working with GUI.</li>
 </ul>
 
-<img src="./level1.png">
-<img src="./level2.png">
-<img src="./level3.png">
-<img src="./level4.png">
+<img src="./level1.png" width="400" height="400">
+<img src="./level2.png" width="400" height="400">
+<img src="./level3.png" width="400" height="400">
+<img src="./level4.png" width="400" height="400">
 
 <h1>Dependencies</h1>
 
