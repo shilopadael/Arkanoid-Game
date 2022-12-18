@@ -13,7 +13,10 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
   <li>Working with GUI.</li>
 </ul>
 
-<img src="./arkanoid.gif">
+<img src="./levle1.png">
+<img src="./levle2.png">
+<img src="./levle3.png">
+<img src="./levle4.png">
 
 <h1>Dependencies</h1>
 
